@@ -5,7 +5,7 @@
   Every 2 bait returned to the anthill = new ant.
   30% of new ants have wings.
   Ants have a fixed lifespan.
-  Deceased ants decay and are evenutally removed from the system
+  Deceased ants decay and are eventually removed from the system.
   
   Bait is added periodically.
   Click to add bait.

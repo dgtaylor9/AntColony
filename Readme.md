@@ -11,6 +11,8 @@ Foraging ants simulation, implemented in [Processing](https://processing.org/).
 - Click to add bait.
 - Ants avoid contact with members of opposing colonies.
 
+![ant colony screenshot](ant-colony.png)
+
 ## Usage
 1. Launch the Processing IDE.
 2. Open ant_colony.pde
